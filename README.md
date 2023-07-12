@@ -1,7 +1,7 @@
 @hadesbaker
 
-Risido Intern
-Smart Contract Developer
+Risido Intern -
+Smart Contract Developer -
 Data Analyst
 
 linkedin
