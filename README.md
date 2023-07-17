@@ -1,8 +1,9 @@
 @hadesbaker
 
-Risido Intern -
-Smart Contract Developer -
-Data Analyst
+Risido -
+Web3 Developer -
+Data Analyst - 
+Solidity Developer
 
 
 
