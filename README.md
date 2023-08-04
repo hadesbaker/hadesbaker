@@ -1,7 +1,6 @@
 @hadesbaker
 
-Risido -
-Web3 Developer -
+Jr Blockchain Developer @ Risidio -
 Data Analyst - 
 Solidity Engineer
 
