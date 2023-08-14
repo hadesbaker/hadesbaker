@@ -1,7 +1,7 @@
 @hadesbaker
 
 Jr Blockchain Developer @ Risidio -
-Data Analyst - 
+Python Developer - 
 Solidity Engineer
 
 
