@@ -1,9 +1,10 @@
 # @hadesbaker
 
-- Blockchain Developer @ Risidio 
+## Blockchain Developer @ Risidio 
+- Solidity Engineer
 - Quantitative Developer 
 - Data Analyst 
-- Solidity Engineer
+
 
 
 
