@@ -6,10 +6,10 @@
 
 ### Languages
 
-- Solidity, Vyper, Rust, Clarity, Golang
-- Python, C++, R
+- Solidity / Vyper / Rust / Clarity / Golang
+- Python / C++ / R
 - Javascript / Typescript / Node
-- React, Nextjs, Vuejs
+- React / Nextjs / Vuejs
 - SQL
 
 ### Frameworks
