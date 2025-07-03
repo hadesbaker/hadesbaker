@@ -2,15 +2,14 @@
 
 ## Solidity Engineer
 ## Quantitative Developer 
-## Data Analyst
+## Web3 Data Analyst
 
 ### Languages
 
-- Solidity / Vyper / Rust / Clarity / Golang
-- Python / C++ / R
-- Javascript / Typescript / Node
-- React / Nextjs / Vuejs
-- SQL
+- / Solidity / Vyper / Clarity /
+- / Rust / Python / C++ / R / Golang /
+- / Javascript / Typescript / Node /
+- / React / Nextjs / Vuejs /
 
 ### Frameworks
 - Foundry
