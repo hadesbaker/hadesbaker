@@ -1,8 +1,8 @@
 # 0xhades
 
-## Solidity Engineer
+## Blockchain Engineer
 ## Quantitative Developer 
-## Web3 Data Analyst
+## Smart Contract Security Auditor
 
 ### Languages
 
@@ -11,14 +11,14 @@
 - / Javascript / Typescript / Node /
 - / React / Nextjs / Vuejs /
 
-### Frameworks
+### ETH Frameworks
 - Foundry
 - Hardhat
 - Truffle
 - Brownie
 
-
-
+### SOL Frameworks
+- Anchor
 
 
 
